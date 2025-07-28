@@ -1,0 +1,1 @@
+Esta carpeta contiene la explicación, plantillas y hoja de inicio de la Bóveda. Se recomienda NO eliminarla.

@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 System/Inicio - ¡Hola Mundo!.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Inicio - ¡Hola Mundo!"
+            }
+          },
+          {
+            "id": "57c9485dd1fecf6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 System/01 Obsidian/01.2 Objetos/Listas.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Listas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b2de98284d5aa45",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a3b8b0a13139b64",
+        "type": "tabs",
+        "dimension": 52.93532338308458,
+        "children": [
+          {
+            "id": "634fe719a269da02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "b15467a191838aad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0 System/Inicio - ¡Hola Mundo!.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Inicio - ¡Hola Mundo!"
+            }
+          },
+          {
+            "id": "fcb8e0114cffca7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#etiquetas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6e25c44405e4bf1f",
+        "type": "tabs",
+        "dimension": 47.06467661691542,
+        "children": [
+          {
+            "id": "fcc359898880ae21",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e643b39026e0ddb6",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "right": {
+    "id": "f0d3b160cfd8a8d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "993e67cf0bc9a4a8",
+        "type": "tabs",
+        "dimension": 50.95419847328244,
+        "children": [
+          {
+            "id": "e3047792581fda4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "7cd083e9735f6563",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0 System/Inicio - ¡Hola Mundo!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "pinned": true,
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Inicio - ¡Hola Mundo!"
+            }
+          },
+          {
+            "id": "5de87c0ad4bd835c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0 System/Inicio - ¡Hola Mundo!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "pinned": true,
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Inicio - ¡Hola Mundo!"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e844fd6bdf197caa",
+        "type": "tabs",
+        "dimension": 49.04580152671756,
+        "children": [
+          {
+            "id": "4551b10943b21fd6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "60eaff01efeb2259",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": true,
+      "graph:Abrir vista gráfica": true,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": true,
+      "command-palette:Abrir paleta de comandos": true,
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "canvas:Crear nuevo lienzo": false,
+      "emoji-picker:Open emoji picker": true,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "0 System/01 Obsidian/01.2 Objetos/Listas.md",
+    "0 System/Inicio - ¡Hola Mundo!.md",
+    "0 System/01 Obsidian/01.1 Guia/Todos los objetos.md",
+    "0 System/01 Obsidian/01.1 Guia/Plugins instalados.md",
+    "0 System/01 Obsidian/01.1 Guia/Inicio.md",
+    "0 System/01 Obsidian/01.1 Guia/Sin título.md",
+    "9 Data/99 Imagenes/CalendarExample.png",
+    "0 System/02 JonnyDecimal/Orden de carpetas y archivos.md",
+    "0 System/Untitled Kanban.md",
+    "0 System/Sin título 1.canvas",
+    "0 System/Sin título.canvas",
+    "9 Data/99 Imagenes/Kanban.png",
+    "0 System/09 Plantillas/09.2 Estudios/ToDo.md",
+    "9 Data/99 Imagenes/BarraDesplegable.png",
+    "4 Wiki/Wiki.md",
+    "9 Data/92 Ejemplos/ExampleSlashCommander.mp4",
+    "9 Data/99 Imagenes/99.0 Info/Data.md",
+    "9 Data/99 Imagenes/99.0 Info",
+    "9 Data/91 Samples/sample.png",
+    "3 Trabajo/31 Trabajo1/Trabajo.md",
+    "3 Trabajo/31 Trabajo1/31.2 Proyecto2/Sin título.md",
+    "3 Trabajo/31 Trabajo1/31.1 Proyecto1/Sin título.md",
+    "2 Estudios/22 Cursos/Cursos libres y demas.md",
+    "2 Estudios/22 Cursos/22.2 Curso2/Sin título.md",
+    "2 Estudios/22 Cursos/22.1 Curso1/Sin título.md",
+    "2 Estudios/21 Universidad/Universidad.md",
+    "2 Estudios/21 Universidad/21.1 Asignaturas/21.11 Asignatura1/Asignatura1.md",
+    "2 Estudios/21 Universidad/21.1 Asignaturas/21.11 Asignatura1/0715 - TemaClase.md",
+    "2 Estudios/21 Universidad/21.1 Asignaturas/21.11 Asignatura1/Tareas/Tarea 1.md",
+    "2 Estudios/21 Universidad/21.1 Asignaturas/21.11 Asignatura1/Material/Material.md",
+    "2 Estudios/21 Universidad/21.0 General/Horario.md",
+    "1 Personales/Personal.md",
+    "1 Personales/19 NotasDiarias/lunes 28 julio 2025.md",
+    "1 Personales/11 Listas&ToDo/ToDo.md",
+    "9 Data/99 Imagenes/VistaGrafica.png",
+    "9 Data/99 Imagenes/Pasted image 20250728143947.png",
+    "9 Data/92 Ejemplos",
+    "9 Data/91 Samples/sample.pdf",
+    "9 Data/91 Samples/sample.mp4",
+    "9 Data/91 Samples",
+    "0 System/01 Obsidian/01.1 Guia/9 Data/99 Imagenes/Pasted image 20250728143813.png",
+    "0 System/01 Obsidian/01.1 Guia/9 Data/99 Imagenes",
+    "0 System/01 Obsidian/01.1 Guia/9 Data",
+    "0 System/9 Data/99 Imagenes/Pasted image 20250728143659.png",
+    "0 System/9 Data/99 Imagenes",
+    "0 System/9 Data",
+    "90 Data/Imagenes/orbe.png",
+    "90 Data/Imagenes/WhatsApp Image 2025-05-02 at 10.12.37 PM.jpeg",
+    "00 System/Sin título 1.canvas",
+    "00 System/Sin título.canvas",
+    "MainPage.canvas",
+    "9 Data/91 Samples/sample.canvas",
+    "MainView.canvas",
+    "Untitled.canvas",
+    "20 Estudios/21 UNAL/21.10 Clases/21.12 Arq. Gov y TICS/Apuntes/Untitled.canvas",
+    "00 System/01 Obsidian/01.00 Guia/Sin título.canvas"
+  ]
+}

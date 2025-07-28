@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"3eaa7694ff1be60e","type":"group","x":120,"y":-460,"width":400,"height":590,"label":"Untitled group"},
+		{"id":"ecc2920771d84569","type":"file","file":"90 Data/Imagenes 1/Pasted image 20250702192603.png","x":640,"y":-523,"width":400,"height":303},
+		{"id":"46af8d02011d50bb","type":"text","text":"","x":225,"y":-100,"width":250,"height":180},
+		{"id":"06bd74c2efef69ba","type":"text","text":"","x":140,"y":-401,"width":250,"height":60},
+		{"id":"37a17c192e3c7351","type":"link","url":"https://google.com","x":620,"y":-140,"width":489,"height":317},
+		{"id":"c378722e20265ce2","type":"text","text":"","x":470,"y":-580,"width":250,"height":111},
+		{"id":"9b0fed1ebbe70f39","type":"file","file":"0 System/01 Obsidian/01.2 Objetos/Callouts.md","x":-320,"y":-120,"width":400,"height":400},
+		{"id":"a2f249e45860a4d7","type":"text","text":"","x":-220,"y":-610,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"43af82ba0a0ed1a5","fromNode":"46af8d02011d50bb","fromSide":"top","toNode":"06bd74c2efef69ba","toSide":"bottom"},
+		{"id":"ced9fc8d1d351919","fromNode":"06bd74c2efef69ba","fromSide":"bottom","toNode":"a2f249e45860a4d7","toSide":"right"},
+		{"id":"c8a04cee39e5ba6f","fromNode":"06bd74c2efef69ba","fromSide":"bottom","toNode":"46af8d02011d50bb","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "CheckBox": "checkbox",
+    "Hora": "datetime",
+    "Profesor": "multitext",
+    "Semestre": "multitext",
+    "Terminado": "checkbox",
+    "Revisado": "checkbox"
+  }
+}

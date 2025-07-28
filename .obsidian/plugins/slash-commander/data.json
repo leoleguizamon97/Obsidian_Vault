@@ -1,0 +1,400 @@
+{
+  "version": 2,
+  "confirmDeletion": true,
+  "showDescriptions": false,
+  "showSourcesForDuplicates": true,
+  "debug": false,
+  "mainTrigger": "/",
+  "extraTriggers": [
+    "-"
+  ],
+  "useExtraTriggers": true,
+  "triggerOnlyOnNewLine": false,
+  "queryPattern": {},
+  "bindings": [
+    {
+      "id": "editor:set-heading-1",
+      "icon": "heading-glyph",
+      "name": "H1",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:set-heading-1",
+      "children": []
+    },
+    {
+      "id": "editor:set-heading-2",
+      "icon": "heading-glyph",
+      "name": "H2",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:set-heading-2",
+      "children": []
+    },
+    {
+      "id": "editor:set-heading-3",
+      "icon": "heading-glyph",
+      "name": "H3",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:set-heading-3",
+      "children": []
+    },
+    {
+      "id": "editor:set-heading-4",
+      "icon": "heading-glyph",
+      "name": "H4",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:set-heading-4",
+      "children": []
+    },
+    {
+      "id": "editor:set-heading-5",
+      "icon": "heading-glyph",
+      "name": "H5",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:set-heading-5",
+      "children": []
+    },
+    {
+      "id": "editor:set-heading-6",
+      "icon": "heading-glyph",
+      "name": "H6",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:set-heading-6",
+      "children": []
+    },
+    {
+      "id": "editor:toggle-bold",
+      "icon": "lucide-bold",
+      "name": "Negrita",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:toggle-bold",
+      "children": []
+    },
+    {
+      "id": "editor:toggle-italics",
+      "icon": "lucide-italic",
+      "name": "Cursiva",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:toggle-italics",
+      "children": []
+    },
+    {
+      "id": "editor:toggle-strikethrough",
+      "icon": "lucide-strikethrough",
+      "name": "Tachado",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:toggle-strikethrough",
+      "children": []
+    },
+    {
+      "id": "editor:toggle-highlight",
+      "icon": "lucide-highlighter",
+      "name": "Resaltado",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:toggle-highlight",
+      "children": []
+    },
+    {
+      "id": "editor:toggle-code",
+      "icon": "lucide-code-2",
+      "name": "Codigo",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:toggle-code",
+      "children": []
+    },
+    {
+      "id": "editor:toggle-inline-math",
+      "icon": "lucide-sigma",
+      "name": "Ecuacion",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:toggle-inline-math",
+      "children": []
+    },
+    {
+      "id": "editor:toggle-comments",
+      "icon": "lucide-percent",
+      "name": "Comentario",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:toggle-comments",
+      "children": []
+    },
+    {
+      "id": "editor:toggle-blockquote",
+      "icon": "lucide-quote",
+      "name": "Nota",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:toggle-blockquote",
+      "children": []
+    },
+    {
+      "id": "editor:insert-footnote",
+      "icon": "lucide-file-signature",
+      "name": "Pie de pagina",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:insert-footnote",
+      "children": []
+    },
+    {
+      "name": "Propiedad",
+      "id": "markdown:add-metadata-property",
+      "icon": "plus-circle",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false,
+      "action": "markdown:add-metadata-property",
+      "children": []
+    },
+    {
+      "id": "editor:insert-tag",
+      "icon": "lucide-tag",
+      "name": "Tag",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:insert-tag",
+      "children": []
+    },
+    {
+      "id": "editor:insert-horizontal-rule",
+      "icon": "lucide-minus",
+      "name": "Linea",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:insert-horizontal-rule",
+      "children": []
+    },
+    {
+      "id": "editor:toggle-bullet-list",
+      "icon": "lucide-list",
+      "name": "Lista",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:toggle-bullet-list",
+      "children": []
+    },
+    {
+      "id": "editor:toggle-numbered-list",
+      "icon": "lucide-list-ordered",
+      "name": "Lista Numerada",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:toggle-numbered-list",
+      "children": []
+    },
+    {
+      "id": "editor:toggle-checklist-status",
+      "icon": "lucide-check-square",
+      "name": "Tarea",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:toggle-checklist-status",
+      "children": []
+    },
+    {
+      "id": "182fe8f8-cf10-4124-8af6-a609298f87ba",
+      "icon": "alarm-clock-check",
+      "name": "Recordatorio",
+      "action": "obsidian-reminder-plugin:show-date-chooser",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "isGroup": false,
+      "children": []
+    },
+    {
+      "id": "editor:insert-table",
+      "icon": "lucide-table",
+      "name": "Tabla",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:insert-table",
+      "children": []
+    },
+    {
+      "id": "editor:insert-codeblock",
+      "icon": "lucide-code",
+      "name": "Bloque codigo",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:insert-codeblock",
+      "children": []
+    },
+    {
+      "id": "editor:insert-mathblock",
+      "icon": "lucide-sigma-square",
+      "name": "Bloque Ecuacion",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:insert-mathblock",
+      "children": []
+    },
+    {
+      "id": "editor:insert-callout",
+      "icon": "lucide-quote",
+      "name": "Bloque Nota",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:insert-callout",
+      "children": []
+    },
+    {
+      "id": "insert-template",
+      "icon": "lucide-copy",
+      "name": "Plantilla",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "insert-template",
+      "children": []
+    },
+    {
+      "id": "insert-current-date",
+      "icon": "lucide-calendar-days",
+      "name": "Fecha",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "insert-current-date",
+      "children": []
+    },
+    {
+      "id": "insert-current-time",
+      "icon": "lucide-clock",
+      "name": "Hora",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "insert-current-time",
+      "children": []
+    },
+    {
+      "id": "editor:insert-wikilink",
+      "icon": "bracket-glyph",
+      "name": "Link Interno",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:insert-wikilink",
+      "children": [],
+      "triggerMode": "anywhere"
+    },
+    {
+      "id": "editor:insert-embed",
+      "icon": "lucide-sticky-note",
+      "name": "Insertar Nota",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:insert-embed",
+      "children": [],
+      "triggerMode": "anywhere"
+    },
+    {
+      "id": "editor:insert-link",
+      "icon": "lucide-link",
+      "name": "Link Externo",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:insert-link",
+      "children": [],
+      "triggerMode": "anywhere"
+    },
+    {
+      "id": "editor:attach-file",
+      "icon": "lucide-paperclip",
+      "name": "Archivo",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:attach-file",
+      "children": []
+    },
+    {
+      "id": "audio-recorder:start",
+      "icon": "mic",
+      "name": "Grabadora de audio: Iniciar",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "audio-recorder:start",
+      "children": []
+    },
+    {
+      "id": "audio-recorder:stop",
+      "icon": "mic-off",
+      "name": "Grabadora de audio: Detener",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "audio-recorder:stop",
+      "children": []
+    },
+    {
+      "id": "emoji-picker:open-emoji-picker",
+      "icon": "smile-plus",
+      "name": "Emoji",
+      "mode": "any",
+      "chosen": false,
+      "selected": false,
+      "action": "emoji-picker:open-emoji-picker",
+      "children": []
+    },
+    {
+      "id": "8c56f71e-281b-4fe6-9250-d7ea37c4436a",
+      "icon": "kanban-square",
+      "name": "Kanvas",
+      "action": "obsidian-kanban:create-new-kanban-board",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "isGroup": false,
+      "children": []
+    },
+    {
+      "id": "06ed66ef-ad02-4fab-ae01-cac1b417a0a9",
+      "icon": "plus-circle",
+      "name": "Boton",
+      "action": "buttons:button-maker",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "isGroup": false,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "9 Data/99 Imagenes",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "defaultViewMode": "preview",
+  "uriCallbacks": false,
+  "showInlineTitle": true,
+  "promptDelete": false
+}
